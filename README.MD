@@ -5,10 +5,10 @@ The present repository, contains examples and exercices with its solutions, to i
 ## Examples
 
 ### Sensor (ultrasonic)
-![Connection scheme](/img/ultrasonic_sensor_demo_bb.png) 
 Using a ultrasonic sensor, based on the distance, the example prints the calculated distance in centimeters.
 
-### Light Sensor (ultrasonic)
+### Light (Flora Adafruit Neopixel) Sensor (ultrasonic)
+![Connection scheme](/img/ultrasonic_sensor_demo_bb.png) 
 Using a ultrasonic sensor, based on the distance, we can control the color and intensity of a LED.
 
 ### Servo with Sensor (ultrasonic)
