@@ -21,4 +21,4 @@ Just an example of how to play with LEDs
 ### Robotkit
 Using an S4A Edu board with Robotkit library, an easier way to program robots.
 
-## Exercices (coming soon)
+## Exercises (coming soon)
